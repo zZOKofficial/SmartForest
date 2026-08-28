@@ -1,0 +1,18 @@
+SMARTFOREST DASHBOARD
+=====================
+
+System Status: ONLINE
+
+Temperature: --
+Humidity: --
+Soil Moisture: --
+Air Quality: --
+
+Equipment Status
+----------------
+Water Pump: --
+Fan: --
+Lighting: --
+Sensors: --
+
+Last Updated: --
